@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 3000 6650 1750 700 
+S 750  750  1750 700 
 U 60EA58F3
 F0 "/home/christoph/kicad/templates_kicad/" 50
 F1 "motherboard_extension_board.sch" 50
